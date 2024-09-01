@@ -1,1 +1,3 @@
-# datacamp_excel_projects\n1_Introduction+to+Excel\n2_Exercises+and+Datasets
+# datacamp_excel_projects
+1_Introduction+to+Excel
+2_Exercises+and+Datasets
